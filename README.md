@@ -1,9 +1,6 @@
-- 👋 Hi, I’m @d-koda
+- 👋 Hi, I’m Dakoda, or @d-koda.
 - 👀 I’m interested in learning to program.
 - 🌱 I’m currently learning using the Odin Project!
 - 📫 How to reach me: d.kodingcoding@gmail.com, or on discord!
 
-<!---
-d-koda/d-koda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+All my progress through learning how to program will be here. If you have any suggestions or things you'd suggest, feel free to send me an email or comment.
